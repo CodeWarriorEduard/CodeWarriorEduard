@@ -1,5 +1,5 @@
 ### Hello, i'm Rafael! 🐶
-### I'm a software developer, i really love building things and sharing my knowledge!
+### I'm a developer, i really love building things and sharing my knowledge!
 ### Take a look at what i built [here](https://github.com/eduard50?tab=repositories).
 
 <!--
