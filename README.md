@@ -1,6 +1,6 @@
 ### Hello, i'm Rafael! 🐶
 ### I'm a developer who really loves building things and sharing my knowledge!
-### Take a look at what i built [here](https://github.com/eduard50?tab=repositories).
+### Take a look at what i built [here](https://github.com/CodeWarriorEduard?tab=repositories).
 
 <!--
 **eduard50/eduard50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
